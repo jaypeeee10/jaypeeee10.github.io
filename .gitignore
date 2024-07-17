@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # ignore ALL .txt files
-*.txt
+working_file.txt
 
 # User-specific files
 *.rsuser
