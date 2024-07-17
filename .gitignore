@@ -5,6 +5,7 @@
 
 # ignore ALL .txt files
 working_file.txt
+new_file.txt
 
 # User-specific files
 *.rsuser
