@@ -7,9 +7,6 @@
 working_file.txt
 new_file.txt
 
-# ignore all files within important_files/
-important_files/
-
 # User-specific files
 *.rsuser
 *.suo
